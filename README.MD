@@ -1,0 +1,4 @@
+-   npm init -y
+-   npm i -D eslint
+-   npm i -D eslint-config-prettier eslint-plugin-prettier prettier
+-   npm info "eslint-config-airbnb@latest" peerDependencies
